@@ -1,9 +1,9 @@
 name 'segulja_ovirt'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Michael Segulja'
+maintainer_email 'michael@segulja.com'
 license 'All Rights Reserved'
-description 'Installs/Configures segulja_ovirt'
-long_description 'Installs/Configures segulja_ovirt'
+description 'Installs/Configures ovirt agent'
+long_description 'Installs and configures the Open Virtualization client agent'
 version '0.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
